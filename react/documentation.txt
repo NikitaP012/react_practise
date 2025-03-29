@@ -1,0 +1,14 @@
+how to crete the repo
+1) click on the new repo button
+2) create repo - add repo name
+3) add the redmi file - beacause to write short description about the project.
+4) click on create repository
+
+5) upload the project in this created repo 
+1) click right click on that particular folder - click on gitbash option
+2) git init  --- initilization
+3) add the file --- git add .
+4) commit the chnages --- git commit -m "initial commit"
+5) git remote add origin git@github.com:NikitaP012/react_basic_practise.git  ---- copy the link from code ssh option
+6) git push -u origin master
+7)
